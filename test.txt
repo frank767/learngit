@@ -1,2 +1,3 @@
 I'm learning Ubuntu and Git now,
-this text is a test for learning. 
+this text is a test for learning.
+only can change the flie by type in word is inconvenient. 
