@@ -1,0 +1,2 @@
+I'm learning Ubuntu and Git now,
+this text is a test for learning. 
