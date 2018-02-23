@@ -1,3 +1,2 @@
-I'm learning Ubuntu and Git now,
-this text is a test for learning.
-only can change the flie by type in word is inconvenient. 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
